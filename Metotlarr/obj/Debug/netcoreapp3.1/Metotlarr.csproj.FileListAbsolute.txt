@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.exe
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.deps.json
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.runtimeconfig.json
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.dll
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\bin\Debug\netcoreapp3.1\Metotlarr.pdb
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.AssemblyInfo.cs
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.dll
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.pdb
+C:\Users\pc\source\repos\Kampİntro\Metotlarr\obj\Debug\netcoreapp3.1\Metotlarr.genruntimeconfig.cache

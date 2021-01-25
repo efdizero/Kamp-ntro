@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.exe
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.deps.json
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.runtimeconfig.json
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.dll
+C:\Users\pc\source\repos\Kampİntro\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.pdb
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.AssemblyInfo.cs
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.dll
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.pdb
+C:\Users\pc\source\repos\Kampİntro\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.genruntimeconfig.cache
